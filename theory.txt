@@ -1,0 +1,11 @@
+hyper: over, very exited, energetic
+hypertext is a way of connecting pieces of text so that you can go quickly and directly from one to another.
+Information stored in a computer and specially organized so that related items, as in separate documents, 
+are linked together and can be readily accessed
+Hypertext is text which contains links to other texts. 
+"Hypertext" refers to links that connect web pages to one another, either within a single website or between websites. 
+Hypertext is text with hyperlinks
+In computing, a hyperlink, or simply a link, is a digital reference to data that the user can follow or be guided by clicking or tapping.
+
+HTML, in full hypertext markup language, a formatting system for displaying material retrieved (bring back from somewhere)over the Internet.
+
